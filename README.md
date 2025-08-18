@@ -61,7 +61,7 @@ This script allows you to test the latency of multiple DNS servers by measuring 
 ### 4. Run the script:
 
    ```bash
-   sudo ./dns_speed_test_parallel.sh download.docker.com
+   sudo dns_speed_test_parallel.sh download.docker.com
    ```
    
    The script will:
